@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img scr="https://github.com/xo0ol/xo0ol/blob/49f7c646d9be52257910efbd0fd8a53b6deb8e09/1734423003704-0.jpg" width="400" height="600">
 
 <!--
 **xo0ol/xo0ol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
