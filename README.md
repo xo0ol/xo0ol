@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3?style=for-the-badge&logo=r&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <!--
 **xo0ol/xo0ol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
