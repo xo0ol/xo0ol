@@ -2,7 +2,7 @@
 
 저의 **🌈관심 분야와 주제**를 중심으로,  
 아이디어를 실제 코드로 구현해 나가는 과정을 기록하는 공간입니다.  
-<img src="https://github.com/user-attachments/assets/add4194b-9bc9-4ab0-89b3-cea652d89324" width="100" height="auto"/>
+<img src="https://github.com/user-attachments/assets/add4194b-9bc9-4ab0-89b3-cea652d89324" width="150" height="auto"/>
 
 
 현재는 다양한 기능과 오픈소스 도구를 직접 사용하고 학습하며 포트폴리오를 확장해 나가는 중입니다.  
@@ -10,7 +10,7 @@
 
 ---
 
-## Languages and Tools
+## 👩‍💻Languages and Tools
 
 * **Programming Languages:**
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -39,7 +39,7 @@
 
 ---
 
-## Future Focus: 
+## 📖 Future Focus: 
 ~~Still Learning...~~
 * Data & Business Intelligence
 * SQL -- Oracle, MySql..
