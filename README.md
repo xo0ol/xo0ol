@@ -21,7 +21,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 
 * **Data Analysis & Visualization:**
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/></a>
 
@@ -42,9 +42,9 @@
 ## 📖 Future Focus: 
 
 ### Current Learning
-| **Web Development Stack** | **Business Intelligence** | **SQL** |
-|--|--|--|
-| ▶HTML5 → React → Next.js<br>▶CSS → Tailwind CSS<br>▶JavaScript → TypeScript | ▶Power BI<br>▶Tableau | ▶Oracle<br>▶MySQL |
+|**NLP**| **Web Development Stack** | **Business Intelligence** | **SQL** |
+|--|--|--|--|
+|▶NLTK<br>▶Transformers| ▶HTML5 → React → Next.js<br>▶CSS → Tailwind CSS<br>▶JavaScript → TypeScript | ▶Power BI<br>▶Tableau | ▶Oracle<br>▶MySQL |
 
 
 ### ~~Planned Learning~~
