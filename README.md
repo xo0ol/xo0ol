@@ -40,8 +40,11 @@
 ---
 
 ## 📖 Future Focus: 
-~~Still Learning...~~
-* Data & Business Intelligence
-* SQL -- Oracle, MySql..
+
+### Current Learning
+| **Web Development Stack** | **Business Intelligence** | **SQL** |
+|--|--|--|
+| ▶HTML5 → React → Next.js<br>▶CSS → Tailwind CSS<br>▶JavaScript → TypeScript | ▶Power BI<br>▶Tableau | ▶Oracle<br>▶MySQL |
 
 
+### ~~Planned Learning~~
