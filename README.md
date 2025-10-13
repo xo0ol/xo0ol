@@ -41,10 +41,15 @@
 
 ## 📖 Future Focus: 
 
-### Current Learning
-|**NLP**| **Web Development Stack** | **Business Intelligence** | **SQL** |
-|--|--|--|--|
-|▶NLTK<br>▶Transformers| ▶HTML5 → React → Next.js<br>▶CSS → Tailwind CSS<br>▶JavaScript → TypeScript | ▶Power BI<br>▶Tableau | ▶Oracle<br>▶MySQL |
+* **Current Learning**
+
+  |**NLP**| 
+  |--|
+  |▶NLTK<br>▶Transformers|
 
 
-### ~~Planned Learning~~
+* **Planned Learning**
+
+  |**Web Development Stack** | **Business Intelligence** | **SQL** |
+  |--|--|--|
+  |▶HTML5 → React → Next.js<br>▶CSS → Tailwind CSS<br>▶JavaScript → TypeScript | ▶Power BI<br>▶Tableau | ▶Oracle<br>▶MySQL |
