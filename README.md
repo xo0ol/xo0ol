@@ -1,5 +1,3 @@
-## 👋 Hi there 
-
 저의 **🌈관심 분야와 주제**를 중심으로,  
 아이디어를 구현해 나가는 과정을 기록하는 공간입니다.  
 <img src="https://github.com/user-attachments/assets/add4194b-9bc9-4ab0-89b3-cea652d89324" width="150" height="auto"/>
